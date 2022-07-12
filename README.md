@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diCeR0
-- Charismatic mechatronic inventor with a strong sense of loyalty and justice, persistent and competitive, oriented towards robotic optimization in cutting-edge 
-- technological projects to drive the modernization of people, organizations and processes.
+- Charismatic mechatronic inventor with a strong sense of loyalty and justice, persistent and competitive, oriented towards robotic optimization in cutting-edge technological projects to drive the modernization of people, organizations and processes.
 
 - 👀 I’m interested in IT, artificial inteligence, Mobile & Web development, electronics, microcontrollers, IoT, robotics, etc.
 - 🌱 I’m currently learning AWS, artificial inteligence, neuronal networks and RPA.
